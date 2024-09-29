@@ -22,3 +22,10 @@ The selected dataset contains **917 rows** and **12 columns**, exceeding the min
 
 This dataset is considered to have sufficient complexity and variety, making it ideal for our exploratory data analysis.
 
+## Conclusion
+
+  ### *83% of People having high BP and have Fasting Blood Sugar are prone to heart disease*
+  #### *92.9% of People having high BP and have Fasting Blood Sugar are prone to heart disease*
+  #### *80% of People having high BP, Cholestrol and ubnormal ECG are prone to heart disease*
+  #### *86.6% of elderly people having low MaxHR, experience experience Angina and ubnormal ECG are prone to heart disease*
+  #### *83.2% of elderly people having ubnormal ECG  and St slope values are Flat prone to heart disease*
